@@ -1,0 +1,12 @@
+.navbar li{
+    display: inline;
+    margin: 10px;
+}
+
+.navButton:hover{
+    color: green;
+}
+ul li .active {
+    color: red;
+    font-weight: bold;
+}
